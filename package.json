@@ -27,7 +27,7 @@
     "prepublishOnly": "npm run clean && npm run build"
   },
   "devDependencies": {
-    "rimraf": "^5.0.5",
+    "rimraf": "^6.1.2",
     "typescript": "^5.9.3",
     "vitest": "^4.0.15"
   },
