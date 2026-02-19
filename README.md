@@ -1,3 +1,5 @@
+# NOTICE! This repo has been DEPRECATED! For the latest updates to the XIV Dye Tools app, see the mono-repo here: https://github.com/FlashGalatine/xivdyetools
+
 # @xivdyetools/crypto
 
 Shared cryptographic utilities for the xivdyetools ecosystem.
